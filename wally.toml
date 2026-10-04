@@ -1,0 +1,12 @@
+[package]
+name = "cocacolarocks19/pathfindingsystem"
+description = "A nice and easy pathfinding system!"
+licence = "MIT"
+authors = ["cocacolarocks19"]
+version = "0.0.2"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = ["rokit.toml"]
+
+
+[dependencies]
